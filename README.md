@@ -3,13 +3,13 @@
 Data-and-Analytics
 --------------------------
 
-### Features
+## Features
 
 En este espacio se encunetra la resolucion de la prueba para el cargo de Analista de datos.  Se encuentra la solucion a las preguntas y al ejercicio practico. 
 
 
 
-**Table of Contents**
+## Table of Contents
 
 
 
@@ -29,7 +29,7 @@ Resolucion con la logico propuesta para la solucion de las preguntas
 
 Consulta y transformacion de datos del dataset propuesto para el eericio
 
-> En caso de consulta, contactame al correo :tw-1f48c: nancyespinosaj@gmail.com
+> En caso de consulta, contactame al correo 💬 nancyespinosaj@gmail.com
 
 ## 🚀 Authors
 
